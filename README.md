@@ -1,9 +1,9 @@
 ## Anki Card Templates Superlist
 
-1. [All Purpose](#All\ Purpose)
-2. [Language Learning](#Language Learning)
+1. [All Purpose](#All+Purpose)
+2. [Language Learning](#Language+Learning)
 3. [Programming](#Programming)
-4. [Med School](#Med School)
+4. [Med School](#Med+School)
 5. [Geography](#Geography)
 
 ### All Purpose 
