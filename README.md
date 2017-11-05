@@ -10,9 +10,11 @@
 
 ### Language Learning
 
-* [trainofpotatoes](https://www.reddit.com/r/Anki/comments/4n6cbf/does_anyone_have_a_goodlooking_anki_css_template/) ![image](https://i.imgur.com/PCOegfB.png) 
+* [trainofpotatoes](https://www.reddit.com/r/Anki/comments/4n6cbf/does_anyone_have_a_goodlooking_anki_css_template/) 
 
 clean card style by /u/TrainOfPotatoes, used for Japanese, can be adopted for other use cases
+
+![image](https://i.imgur.com/PCOegfB.png) 
 
 
 * [anki-solarized-light](https://github.com/NSBum/anki-themes) - beautiful solarize theme, style is written sass
