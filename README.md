@@ -5,6 +5,7 @@
 3. [Programming](#Programming)
 4. [Med School](#Med+School)
 5. [Geography](#Geography)
+6. [Quiz](#Quiz)
 
 ### All Purpose 
 
@@ -14,13 +15,13 @@
 
 clean card style by /u/TrainOfPotatoes, used for Japanese, can be adopted for other use cases
 
-<img src="https://i.imgur.com/PCOegfB.png" style="width: 120px;"/>
+<img src="https://i.imgur.com/PCOegfB.png" style="width: 120px;">
 
 #### [anki-solarized-light](https://github.com/NSBum/anki-themes) 
 
 beautiful solarize theme, style is written sass
 
-<img src="https://i.imgur.com/ay6cmg9.png" style="width: 120px;"/>
+<img src="https://i.imgur.com/ay6cmg9.png" style="width: 120px;">
 
 ### Programming
 
@@ -29,3 +30,13 @@ beautiful solarize theme, style is written sass
 
 
 ### Geography
+
+### Quiz
+
+#### [Memrise Template](https://ankiweb.net/shared/info/289642102)
+
+Memrise like multiple choice template
+
+#### [Quiz Deck Template](https://ankiweb.net/shared/info/947272864)
+
+Multiple choice template with multiple possible answers
