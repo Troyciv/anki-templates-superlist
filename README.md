@@ -1,5 +1,7 @@
 ## Anki Card Templates Superlist
 
+I'd like to encourage you to make suggestions for high quality style templates.
+
 1. [All Purpose](#All+Purpose)
 2. [Language Learning](#Language+Learning)
 3. [Programming](#Programming)
