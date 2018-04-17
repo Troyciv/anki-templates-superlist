@@ -1,5 +1,6 @@
 ## Anki Card Templates Superlist
 
+
 I'd like to encourage you to make suggestions for high quality style templates.
 
 1. [All Purpose](#All+Purpose)
@@ -8,6 +9,9 @@ I'd like to encourage you to make suggestions for high quality style templates.
 4. [Med School](#Med+School)
 5. [Geography](#Geography)
 6. [Quiz](#Quiz)
+7. [not yet categorized, but still good and useful](#notyet)
+
+
 
 ### All Purpose 
 
@@ -40,3 +44,8 @@ Memrise like multiple choice template
 #### [Quiz Deck Template](https://ankiweb.net/shared/info/947272864) - [image](https://i.imgur.com/ct4wnD9.png)
 
 Multiple choice template with multiple possible answers
+
+### not yet categorized, but still good and useful
+
+- https://github.com/ninja33/anki-templates
+- https://github.com/bikenik/anki
