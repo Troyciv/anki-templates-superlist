@@ -17,10 +17,13 @@ I'd like to encourage you to make suggestions for high quality style templates.
 
 clean card style by /u/TrainOfPotatoes, used for Japanese, can be adopted for other use cases
 
-
 #### [anki-solarized-light](https://github.com/NSBum/anki-themes) - [image](https://i.imgur.com/ay6cmg9.png)
 
 beautiful solarize theme, style is written sass
+
+#### [anki-templates](https://github.com/ninja33/anki-templates)
+
+a dynamic card template
 
 #### [anki-interactive](https://github.com/qwiglydee/anki-interactive)
 
@@ -28,9 +31,11 @@ interactive card templates for language learners
 
 ### Programming
 
+#### [badlydrawnrob/anki](https://github.com/badlydrawnrob/anki)
+
+an Anki template for code snippets
 
 ### Med School
-
 
 ### Geography
 
