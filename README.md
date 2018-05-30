@@ -29,7 +29,7 @@ a dynamic card template
 
 #### [badlydrawnrob/anki](https://github.com/badlydrawnrob/anki)
 
-an Anke template for code snippets
+an Anki template for code snippets
 
 ### Med School
 
