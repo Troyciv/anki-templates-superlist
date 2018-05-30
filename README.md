@@ -26,9 +26,16 @@ clean card style by /u/TrainOfPotatoes, used for Japanese, can be adopted for ot
 
 beautiful solarize theme, style is written sass
 
+#### [anki-templates](https://github.com/ninja33/anki-templates)
+
+a dynamic card template
+
 
 ### Programming
 
+#### [bikenik/anki](https://github.com/bikenik/anki)
+
+an Anke template for code snippets
 
 ### Med School
 
@@ -45,7 +52,3 @@ Memrise like multiple choice template
 
 Multiple choice template with multiple possible answers
 
-### not yet categorized, but still good and useful
-
-- https://github.com/ninja33/anki-templates
-- https://github.com/bikenik/anki
