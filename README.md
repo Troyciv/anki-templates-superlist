@@ -22,6 +22,9 @@ clean card style by /u/TrainOfPotatoes, used for Japanese, can be adopted for ot
 
 beautiful solarize theme, style is written sass
 
+#### [anki-interactive](https://github.com/qwiglydee/anki-interactive)
+
+interactive card templates for language learners
 
 ### Programming
 
