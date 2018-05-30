@@ -25,6 +25,10 @@ beautiful solarize theme, style is written sass
 
 a dynamic card template
 
+#### [anki-interactive](https://github.com/qwiglydee/anki-interactive)
+
+interactive card templates for language learners
+
 ### Programming
 
 #### [badlydrawnrob/anki](https://github.com/badlydrawnrob/anki)
