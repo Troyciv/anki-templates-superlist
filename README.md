@@ -30,7 +30,7 @@ a dynamic card template
 
 ### Programming
 
-#### [bikenik/anki](https://github.com/bikenik/anki)
+#### [badlydrawnrob/anki](https://github.com/badlydrawnrob/anki)
 
 an Anke template for code snippets
 
