@@ -39,7 +39,7 @@ a template for grammar cards
 
 an Anki template for code snippets
 
-#### [kikenik/anki](https://github.com/bikenik/anki)
+#### [bikenik/anki](https://github.com/bikenik/anki)
 
 a fork of the above template
 
