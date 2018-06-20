@@ -4,7 +4,7 @@ I'd like to encourage you to make suggestions for high quality style templates.
 
 1. [All Purpose](#All+Purpose)
 2. [Language Learning](#Language+Learning)
-3. [Programming](#Programming)
+3. [Programming & Computer Science](#Programming)
 4. [Med School](#Med+School)
 5. [Geography](#Geography)
 6. [Quiz](#Quiz)
@@ -33,11 +33,15 @@ interactive card templates for language learners
 
 a template for grammar cards
 
-### Programming
+### Programming & Computer Science
 
 #### [badlydrawnrob/anki](https://github.com/badlydrawnrob/anki)
 
 an Anki template for code snippets
+
+#### [kikenik/anki](https://github.com/bikenik/anki)
+
+a fork of the above template
 
 ### Med School
 
