@@ -1,6 +1,7 @@
 ## Anki Card Templates Superlist
 
-I'd like to encourage you to make suggestions for high quality style templates.
+If you know of any card template that belongs here (maybe your own?) send me a message.
+Either here or on [reddit](https://www.reddit.com/u/troy_civ).
 
 1. [All Purpose](#All+Purpose)
 2. [Language Learning](#Language+Learning)
