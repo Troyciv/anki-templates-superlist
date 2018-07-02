@@ -20,6 +20,7 @@ clean card style by /u/TrainOfPotatoes, used for Japanese, can be adopted for ot
 <img src="https://i.imgur.com/PCOegfB.png" height="360px"/>
 
 #### [NSBum/anki-solarized-light](https://github.com/NSBum/anki-themes)
+
 beautiful solarize theme, style is written in sass
 
 <!-- ![image](https://i.imgur.com/ay6cmg9.png) -->
@@ -29,9 +30,12 @@ beautiful solarize theme, style is written in sass
 
 a dynamic card template
 
+<img src="https://raw.githubusercontent.com/ninja33/anki-templates/master/dynamic/images/sample_005.jpg" height="360px"/>
+
 #### [qwiglydee/anki-interactive](https://github.com/qwiglydee/anki-interactive)
 
 interactive card templates for language learners
+
 <img src="https://raw.githubusercontent.com/qwiglydee/anki-interactive/master/screenshots/basic.png" height="360px"/>
 
 #### [bikenik/Anki_Templates](https://github.com/bikenik/Anki_Templates)
