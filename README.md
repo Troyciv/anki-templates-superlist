@@ -5,13 +5,13 @@ If you know of any card template that belongs here (maybe your own?) let me know
 Open a new issue or pull request here or contact me on [reddit](https://www.reddit.com/user/troy_civ).
 
 <!-- 1. [All Purpose](#All+Purpose) -->
-1. [Language Learning](#Language+Learning)
+1. [Language Learning](#language_learning)
 2. [Programming](#Programming)
 3. [Med School](#Med+School)
 4. [Geography](#Geography)
 5. [Quiz](#Quiz)
 
-### Language Learning
+### Language Learning <a name="language_learning"></a>
 
 #### [TrainOfPotatoes](https://www.reddit.com/r/Anki/comments/4n6cbf/does_anyone_have_a_goodlooking_anki_css_template/)
 
