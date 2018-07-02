@@ -44,7 +44,8 @@ an Anki template for code snippets
 ### Quiz
 
 #### [Memrise Template](https://ankiweb.net/shared/info/289642102)
-![image](https://i.imgur.com/bKFn1d5.png)
+<!-- ![image](https://i.imgur.com/bKFn1d5.png) -->
+<img src="https://i.imgur.com/bKFn1d5.png" height="360px"/>
 
 Memrise like multiple choice template
 
