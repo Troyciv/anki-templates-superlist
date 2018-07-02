@@ -7,7 +7,7 @@ Open a new issue or pull request here or contact me on [reddit](https://www.redd
 <!-- 1. [All Purpose](#All+Purpose) -->
 1. [Language Learning](#language_learning)
 2. [Programming](#Programming)
-3. [Med School](#Med+School)
+3. [Med School](#Med_School)
 4. [Geography](#Geography)
 5. [Quiz](#Quiz)
 
@@ -37,7 +37,7 @@ interactive card templates for language learners
 
 a template for grammar cards
 
-### Programming & Computer Science
+### Programming & Computer Science <a name="programming"></a>
 
 #### [badlydrawnrob/anki](https://github.com/badlydrawnrob/anki)
 
@@ -47,11 +47,11 @@ an Anki template for code snippets
 
 a fork of the above template
 
-### Med School
+### Med School <a name="med_school"></a>
 
-### Geography
+### Geography <a name="geography"></a>
 
-### Quiz
+### Quiz <a name="quiz"></a>
 
 #### [Memrise Template](https://ankiweb.net/shared/info/289642102)
 
