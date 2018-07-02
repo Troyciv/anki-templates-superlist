@@ -6,14 +6,13 @@ If you know of any card template that belongs here (maybe your own?) let me know
 
 Open a new issue or pull request here or contact me on [reddit](https://www.reddit.com/user/troy_civ).
 
-1. [All Purpose](#All+Purpose)
+<!-- 1. [All Purpose](#All+Purpose) -->
 2. [Language Learning](#Language+Learning)
 3. [Programming](#Programming)
 4. [Med School](#Med+School)
 5. [Geography](#Geography)
 6. [Quiz](#Quiz)
 
-### All Purpose 
 
 ### Language Learning
 
@@ -24,7 +23,7 @@ clean card style by /u/TrainOfPotatoes, used for Japanese, can be adopted for ot
 <img src="https://i.imgur.com/PCOegfB.png" height="360px"/>
 
 #### [anki-solarized-light](https://github.com/NSBum/anki-themes)
-beautiful solarize theme, style is written sass
+beautiful solarize theme, style is written in sass
 
 <!-- ![image](https://i.imgur.com/ay6cmg9.png) -->
 <img src="https://i.imgur.com/ay6cmg9.png" height="360px"/>
