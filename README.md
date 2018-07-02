@@ -6,10 +6,10 @@ Open a new issue or pull request here or contact me on [reddit](https://www.redd
 
 <!-- 1. [All Purpose](#All+Purpose) -->
 1. [Language Learning](#language_learning)
-2. [Programming](#Programming)
-3. [Med School](#Med_School)
-4. [Geography](#Geography)
-5. [Quiz](#Quiz)
+2. [Programming](#programming)
+3. [Med School](#med_school)
+4. [Geography](#geography)
+5. [Quiz](#quiz)
 
 ### Language Learning <a name="language_learning"></a>
 
