@@ -14,12 +14,13 @@ I'd like to encourage you to make suggestions for high quality style templates.
 ### Language Learning
 
 #### [TrainOfPotatoes](https://www.reddit.com/r/Anki/comments/4n6cbf/does_anyone_have_a_goodlooking_anki_css_template/)
-![image](https://i.imgur.com/PCOegfB.png)
-
+<!-- ![image](https://i.imgur.com/PCOegfB.png) -->
+<img src="https://i.imgur.com/PCOegfB.png" height="360px"/>
 clean card style by /u/TrainOfPotatoes, used for Japanese, can be adopted for other use cases
 
 #### [anki-solarized-light](https://github.com/NSBum/anki-themes)
-![image](https://i.imgur.com/ay6cmg9.png)
+<!-- ![image](https://i.imgur.com/ay6cmg9.png) -->
+<img src="https://i.imgur.com/ay6cmg9.png" height="360px"/>
 
 beautiful solarize theme, style is written sass
 
@@ -50,6 +51,6 @@ an Anki template for code snippets
 Memrise like multiple choice template
 
 #### [Quiz Deck Template](https://ankiweb.net/shared/info/947272864)
-![image](https://i.imgur.com/ct4wnD9.png)
-
+<!-- ![image](https://i.imgur.com/ct4wnD9.png) -->
+<img src="https://i.imgur.com/ct4wnD9.png" height="360pc"/>
 Multiple choice template with multiple possible answers
