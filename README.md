@@ -7,11 +7,11 @@ If you know of any card template that belongs here (maybe your own?) let me know
 Open a new issue or pull request here or contact me on [reddit](https://www.reddit.com/user/troy_civ).
 
 <!-- 1. [All Purpose](#All+Purpose) -->
-2. [Language Learning](#Language+Learning)
-3. [Programming](#Programming)
-4. [Med School](#Med+School)
-5. [Geography](#Geography)
-6. [Quiz](#Quiz)
+1. [Language Learning](#Language+Learning)
+2. [Programming](#Programming)
+3. [Med School](#Med+School)
+4. [Geography](#Geography)
+5. [Quiz](#Quiz)
 
 
 ### Language Learning
