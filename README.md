@@ -1,9 +1,7 @@
 ## Anki Card Templates Superlist
 
 I'm trying to collect good looking and functional Anki card templates of any kind.
-
 If you know of any card template that belongs here (maybe your own?) let me know.
-
 Open a new issue or pull request here or contact me on [reddit](https://www.reddit.com/user/troy_civ).
 
 <!-- 1. [All Purpose](#All+Purpose) -->
