@@ -42,11 +42,15 @@ interactive card templates for language learners
 
 a template for grammar cards
 
+<img src="https://raw.githubusercontent.com/bikenik/Anki_Templates/bikeNik-feature-branch/readmeImg/preview_1.jpg" height="360px"/>
+
 ### Programming & Computer Science <a name="programming"></a>
 
 #### [badlydrawnrob/anki](https://github.com/badlydrawnrob/anki)
 
 an Anki template for code snippets
+
+<img src="https://raw.githubusercontent.com/badlydrawnrob/anki/master/preview.png" height="360px"/>
 
 #### [bikenik/anki](https://github.com/bikenik/anki)
 
