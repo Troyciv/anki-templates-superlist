@@ -74,7 +74,7 @@ Memrise like multiple choice template
 
 Multiple choice template with multiple possible answers
 <!-- ![image](https://i.imgur.com/ct4wnD9.png) -->
-<img src="https://i.imgur.com/ct4wnD9.png" height="360pc"/>
+<img src="https://i.imgur.com/ct4wnD9.png" height="360px"/>
 
 ### General
 
