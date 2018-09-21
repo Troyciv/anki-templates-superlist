@@ -10,6 +10,7 @@ Open a new issue or pull request here or contact me on [reddit](https://www.redd
 3. [Med School](#med_school)
 4. [Geography](#geography)
 5. [Quiz](#quiz)
+6. [General](#general)
 
 ### Language Learning <a name="language_learning"></a>
 
@@ -74,3 +75,9 @@ Memrise like multiple choice template
 Multiple choice template with multiple possible answers
 <!-- ![image](https://i.imgur.com/ct4wnD9.png) -->
 <img src="https://i.imgur.com/ct4wnD9.png" height="360pc"/>
+
+### General
+
+#### [Universal Anki CSS](https://github.com/ChrisK91/Universal-Anki-CSS)
+Plain, general styles for more HTML elements. No changes to HTML necessary. Support for night mode and additional elements, e.g. via the Mini Format Pack.
+<img src="https://chrisk91.me/images/anki_css_style/normal.png" height="360px"><img src="https://chrisk91.me/images/anki_css_style/night_mode.png" height="360px">
