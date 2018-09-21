@@ -80,4 +80,5 @@ Multiple choice template with multiple possible answers
 
 #### [Universal Anki CSS](https://github.com/ChrisK91/Universal-Anki-CSS)
 Plain, general styles for more HTML elements. No changes to HTML necessary. Support for night mode and additional elements, e.g. via the Mini Format Pack.
+
 <img src="https://chrisk91.me/images/anki_css_style/normal.png" height="360px"><img src="https://chrisk91.me/images/anki_css_style/night_mode.png" height="360px">
