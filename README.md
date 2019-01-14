@@ -58,7 +58,7 @@ a fork of the above template
 
 ### Med School <a name="med_school"></a>
 
-####[Dr. Sh*tpost Style](https://old.reddit.com/r/medicalschoolanki/comments/aay8w8/ugly_zanki_formatting_did_you_change_it_after/ecw18v8/?context=0)
+#### [Dr. Sh*tpost Style](https://old.reddit.com/r/medicalschoolanki/comments/aay8w8/ugly_zanki_formatting_did_you_change_it_after/ecw18v8/?context=0)
 
 Animated default card layout used for medicine, can be used as an all-purpose or night mode layout.
 
