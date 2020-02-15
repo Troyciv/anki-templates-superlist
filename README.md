@@ -44,6 +44,12 @@ a template for grammar cards
 
 <img src="https://raw.githubusercontent.com/bikenik/Anki_Templates/bikeNik-feature-branch/readmeImg/preview_1.jpg" height="360px"/>
 
+#### [smolbrain/ModularAnki](https://github.com/smolbrain/ModularAnki)
+
+a simple, modular card template used for language learning, but can also be used for other purposes
+
+<img src="https://raw.githubusercontent.com/smolbrain/ModularAnki/master/translation-back-screenshot.png"/>
+
 ### Programming & Computer Science <a name="programming"></a>
 
 #### [badlydrawnrob/anki](https://github.com/badlydrawnrob/anki)
