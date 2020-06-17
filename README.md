@@ -57,6 +57,10 @@ an Anki template for code snippets
 a fork of the above template
 
 ### Med School <a name="med_school"></a>
+#### [lithene/anki-minimal-template](https://github.com/Lithene/anki-minimal-theme)
+<img src="https://camo.githubusercontent.com/3ce1e5dd63500a8cbc4eaabca0fdd812ea6c20eb/68747470733a2f2f692e696d6775722e636f6d2f31596a73356d492e706e67"></img>
+
+<img src="https://camo.githubusercontent.com/f7221d778a252ccddf95a0265bd57d68b41d5d30/68747470733a2f2f692e696d6775722e636f6d2f485930554b32502e706e67"><img>
 
 ### Geography <a name="geography"></a>
 
