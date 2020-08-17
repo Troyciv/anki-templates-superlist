@@ -44,6 +44,12 @@ a template for grammar cards
 
 <img src="https://raw.githubusercontent.com/bikenik/Anki_Templates/bikeNik-feature-branch/readmeImg/preview_1.jpg" height="360px"/>
 
+#### [leonluleonlu/anki-minimal-language-learning-template](https://github.com/leonluleonlu/anki-minimal-language-learning-template)
+
+A clean and minimal template for learning vocabularies, with speech synthesis and auto generation of comprehension, recollection, and spelling cards.
+
+<img src="https://github.com/leonluleonlu/anki-minimal-language-learning-template/blob/master/media/Comprehension.png" height="360px"/>
+
 ### Programming & Computer Science <a name="programming"></a>
 
 #### [badlydrawnrob/anki](https://github.com/badlydrawnrob/anki)
