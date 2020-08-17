@@ -42,7 +42,7 @@ interactive card templates for language learners
 
 a template for grammar cards
 
-<img src="https://raw.githubusercontent.com/bikenik/Anki_Templates/bikeNik-feature-branch/readmeImg/preview_1.jpg" height="36px"/>
+<img src="https://raw.githubusercontent.com/bikenik/Anki_Templates/bikeNik-feature-branch/readmeImg/preview_1.jpg" height="360px"/>
 
 #### [leonluleonlu/anki-minimal-language-learning-template](https://github.com/leonluleonlu/anki-minimal-language-learning-template)
 
